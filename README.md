@@ -1,3 +1,8 @@
+#  NOTE:
+#  This file contains architectural pseudocode only.
+#  Core business logic and data access layers are
+#  intentionally omitted due to commercial licensing.
+
 # Pathology Lab Management System
 
 A comprehensive Windows-based Laboratory Information Management System (LIMS) designed specifically for pathology laboratories to streamline operations, manage patient records, and generate detailed clinical reports efficiently.
